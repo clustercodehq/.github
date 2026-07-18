@@ -6,7 +6,7 @@
 
 **Self-hosted AI coding orchestration — your machines, your code, your cluster.**
 
-[Website](https://clustercode.io) · [Docs](https://docs.clustercode.io) · [Console](https://console.clustercode.io) · [Discord](https://discord.gg/theclustercode) · [X](https://x.com/theclustercode)
+[Website](https://clustercode.io) · [Docs](https://docs.clustercode.io) · [Console](https://console.clustercode.io) · [Discord](https://discord.gg/M6d7yPz4GJ) · [X](https://x.com/theclustercode)
 
 </div>
 
